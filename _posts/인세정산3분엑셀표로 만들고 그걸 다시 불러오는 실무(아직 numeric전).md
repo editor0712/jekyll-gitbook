@@ -1,3 +1,12 @@
+---
+title: 판다스 실무1-6개월치 정산 1초만에 끝내기(2/3)
+author: Tao He
+date: 2019-04-03
+category: Jekyll
+layout: post
+---
+
+
 ```python
 import pandas as pd
 from openpyxl import Workbook
